@@ -24,8 +24,8 @@ Une application desktop moderne et intuitive pour télécharger des vidéos et a
 
 | Plateforme | Fichier | Taille | Statut |
 |------------|---------|--------|---------|
-| **Windows** | `D_YT_Downloader_Windows.exe` | ~50 MB | ✅ Prêt |
-| **Fedora/Linux** | `D_YT_Downloader_Fedora` | ~45 MB | ✅ Prêt |
+| **Windows** | `D_YT_Downloader_Windows.exe` | ~28 MB | ✅ Prêt |
+| **Fedora/Linux** | `D_YT_Downloader_Fedora` | ~36 MB | ✅ Prêt |
 
 ### 📥 Comment télécharger
 
