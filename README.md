@@ -24,8 +24,8 @@ Une application desktop moderne et intuitive pour télécharger des vidéos et a
 
 | Plateforme | Fichier | Taille | Statut |
 |------------|---------|--------|---------|
-| **Windows** | `D_YT_Downloader_Windows.exe` | ~28 MB | ✅ Prêt |
-| **Fedora/Linux** | `D_YT_Downloader_Fedora` | ~36 MB | ✅ Prêt |
+| **Windows** | `D YT Downloader Windows.exe` | ~28 MB | ✅ Prêt |
+| **Fedora/Linux** | `D YT Downloader Fedora` | ~36 MB | ✅ Prêt |
 
 ### 📥 Comment télécharger
 
@@ -36,16 +36,16 @@ Une application desktop moderne et intuitive pour télécharger des vidéos et a
 ## 🚀 Utilisation Rapide
 
 ### Pour Windows :
-1. 📥 Téléchargez `D_YT_Downloader_Windows.exe`
+1. 📥 Téléchargez `D YT Downloader Windows.exe`
 2. 🖱️ Double-cliquez sur le fichier
 3. 🌟 L'application s'ouvre instantanément
 4. 🔗 Collez votre URL YouTube et téléchargez !
 
 ### Pour Fedora/Linux :
-1. 📥 Téléchargez `D_YT_Downloader_Fedora`
+1. 📥 Téléchargez `D YT Downloader Fedora`
 2. 🔒 Rendez le fichier exécutable :
    ```bash
-   chmod +x D_YT_Downloader_Fedora
+   chmod +x D\YT\Downloader\Fedora
    ```
 
 ## ✨ Fonctionnalités
@@ -85,13 +85,13 @@ pip install customtkinter yt-dlp pyinstaller
 Compilation pour Windows
 ```bash
 
-pyinstaller --onefile --windowed --name "D_YT_Downloader_Windows" main.py
+pyinstaller --onefile --windowed --name "D YT Downloader Windows" main.py
 ```
 
 Compilation pour Linux
 ```bash
 
-pyinstaller --onefile --name "D_YT_Downloader_Fedora" main.py
+pyinstaller --onefile --name "D YT Downloader Fedora" main.py
 ```
 
 Structure du code
